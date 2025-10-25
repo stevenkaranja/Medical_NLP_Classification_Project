@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+.env
+# Jupyter
+.ipynb_checkpoints
+# Data and models
+data/
+models/
+outputs/
+logs/
